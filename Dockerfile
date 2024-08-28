@@ -1,4 +1,4 @@
-FROM eclipse-temurin:21.0.4_7-jdk
+FROM eclipse-temurin:21-jdk-alpine
 
 LABEL maintainer="sehmusaydogdu47@gmail.com"
 
